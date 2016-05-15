@@ -218,6 +218,7 @@
     <string name="calc">Calculate</string>
     <string name="celsius">To Celsius</string>
     <string name="farhenhiet">To Farhenhiet</string>
+    <string name="print">Print</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

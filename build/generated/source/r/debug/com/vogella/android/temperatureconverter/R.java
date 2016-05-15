@@ -1790,6 +1790,7 @@ containing a value of this type.
         public static final int calc=0x7f060015;
         public static final int celsius=0x7f060016;
         public static final int farhenhiet=0x7f060017;
+        public static final int print=0x7f060018;
         public static final int status_bar_notification_info_overflow=0x7f060013;
     }
     public static final class style {
